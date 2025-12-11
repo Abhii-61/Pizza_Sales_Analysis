@@ -2,7 +2,7 @@
 Dashboard project to Analyse Pizza sales using Microsoft Excel, Data Cleaning, Pivot Tables & Pivot Charts, Slicers & Filters, Data Modeling, Conditional Formatting, Trend Analysis, Dashboard Design & Layout. 
 
 
-📘 Project Report: Pizza Sales Analysis Dashboard
+
 1. Project Overview
 The Pizza Sales Analysis Dashboard is an interactive Excel-based analytical tool designed to evaluate overall business performance for a pizza outlet. The goal of this project was to transform raw transactional data into meaningful insights using Excel’s data cleaning, analysis, and visualization capabilities.
 This dashboard provides insights into:
