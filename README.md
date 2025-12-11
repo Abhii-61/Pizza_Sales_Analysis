@@ -1,5 +1,6 @@
 # Pizza_Sales_Analysis
-Dashboard project using Advance Excel to Analyse Pizza sales.
+Dashboard project to Analyse Pizza sales using Microsoft Excel, Data Cleaning, Pivot Tables & Pivot Charts, Slicers & Filters, Data Modeling, Conditional Formatting, Trend Analysis, Dashboard Design & Layout. 
+
 
 📘 Project Report: Pizza Sales Analysis Dashboard
 1. Project Overview
